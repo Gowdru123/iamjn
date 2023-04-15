@@ -40,7 +40,7 @@ async def start(client, message):
     if not await db.is_user_exist(message.from_user.id):
         await db.add_user(message.from_user.id, message.from_user.first_name)
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
-    if len(message.command) != 2
+    if len(message.command) != 2:
         buttons = [[
                     InlineKeyboardButton('🔥 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐠𝐫𝐨𝐮𝐩 🔥', url=f"https://t.me/JN_MOVIE_REQUIST_GROUP")
                   ],[
