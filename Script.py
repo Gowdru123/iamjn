@@ -194,10 +194,12 @@ Nᴀᴍᴇ - {}"""
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
 <b>
+╭─────── • ◆ • ───────╮
+🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
+╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ adult channel : https://t.me/+LC3GZ8HoeM0zMmZl
-▫️ ᴄʜᴀɴɴᴇʟ : @@ROCKERSBACKUP 
+▫️ ᴄʜᴀɴɴᴇʟ : @ROCKERSBACKUP 
 ▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @JN_MOVIE_REQUIST_GROUP
 =========== • ✠ • ===========</b>"""
 
